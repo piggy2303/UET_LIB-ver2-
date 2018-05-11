@@ -1,0 +1,3 @@
+rootProject.name = 'UET_LIB'
+
+include ':app'
